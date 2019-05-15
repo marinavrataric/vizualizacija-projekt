@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+  background-color: gray;
+}
+
+.sphere {
+  fill: lightblue;
+}
+
+.country {
+  fill: green;
+  stroke: black;
+  stroke-opacity: 0.2;
+}
+
+.country:hover{
+  fill: orange;
+}
+
+h2{
+  text-align: center;
+}
